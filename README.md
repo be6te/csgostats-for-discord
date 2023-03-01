@@ -12,4 +12,4 @@
 
 - leave a like :)
 
-> If you are going to steal my code, don't be a skid and leave me credits or at least a like lol
+> If you are going to steal my code and you will upload it as you are not so skid give me credits or how minimal leave me a like lol
