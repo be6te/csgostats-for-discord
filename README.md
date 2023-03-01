@@ -1,4 +1,5 @@
 <h1 align="center">csgoStats for Discord</h1>
+<h2 align="center"><3</h2>
 
 ## How to install
 
