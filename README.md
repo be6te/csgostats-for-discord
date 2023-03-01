@@ -1,6 +1,15 @@
-# csgostats-for-discord
+<h1 align="center">csgoStats for Discord</h1>
 
-use it just put your bot's token inside the main.py folder and replace where it says "your bot token" and replace and enter your steam api key inside core/APIRequests.py and where it says "your steam api key" you put yours you can find it at https://steamcommunity.com/dev/apikey
+## How to install
 
+- Step one: Install python in its latest version
+- Step two: Run cmd and go to the path where your bot+ is
+- Step three: In the cmd or terminal you are using use pip install -r requirements.txt to install the necessary dependencies
+- Step Four: In the "main.py" file, replace the bot token with your bot's token
+- Step Five: Inside the core/APIRequests.py folder replace where it says "your steam api key" and put your steam api key
+- Step 6: Run it and you're done.
+- Step 7: Leave me a like if you want.y
 
 - leave a like :)
+
+> If you are going to steal my code, don't be a skid and leave me credits or at least a like lol
