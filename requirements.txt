@@ -1,0 +1,4 @@
+cloudscraper
+bs4
+lxml
+discord
