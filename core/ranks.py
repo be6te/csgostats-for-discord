@@ -1,0 +1,22 @@
+csgo_ranks = {
+    -1 : "Unknown",                                                             
+    0  : "Expired",                                                             
+    1  : "Silver 1",    
+    2 : "Silver 2",    
+    3 : "Silver 3",    
+    4 : "Silver 4",    
+    5 : "Silver Elite",   
+    6 : "Silver Elite Master", 
+    7  : "Gold Nova 1",   
+    8 : "Gold Nova 2",   
+    9 : "Gold Nova 3",  
+    10 : "Gold Nova Master",                          
+    11 : "Master Guardian 1",  
+    12 : "Master Guardian 2",  
+    13 : "Master Guardian ",  
+    14 : "Sheriff [Master guardian]",                       
+    15 : "Legendary Eagle",   
+    16 : "Legendary Eagle Master",                                                 
+    17 : "Supreme Master",                                                            
+    18 : "Global Elite"                                                                 
+}
